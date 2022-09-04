@@ -56,7 +56,11 @@
                     Console.WriteLine ("Isósceles\n");
             }
         }
+
         //Alteração realizada por Raphael, Versão 2.2
+
+        //Versão 3.2
+
     }
     //Versão 3.1
 }
