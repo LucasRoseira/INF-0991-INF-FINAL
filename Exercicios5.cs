@@ -40,7 +40,7 @@
 
         }
 
-        //Exer 3 - Qual é o triângulo
+        //Exer 3 - Qual é o triângulo - Alteração versão 4
         int[] triangulo = new int[3];
         char lado = 'A';
         for (int i = 0; i < 3; i++) {
