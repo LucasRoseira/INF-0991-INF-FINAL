@@ -1,6 +1,6 @@
 ﻿internal class Program {
     private static void Main (string[] args) {
-        //Exer 1 - Idade para votar
+        //Exer 1 - Idade para votar. Alteração versão 2
         int year;
         int currentYear, age;
         string currentYearString;
