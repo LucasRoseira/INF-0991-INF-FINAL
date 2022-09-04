@@ -22,7 +22,7 @@
             Console.WriteLine ("Você precisa votar.");
         }
 
-        //Exer 2 - Maior binário
+        //Exer 2 - Maior binário - Alteração versão 3
         String[] numBinaryString = new String[3];
         int[] numBinaryInt = new int[3];
 
