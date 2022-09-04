@@ -56,7 +56,7 @@
                     Console.WriteLine ("Isósceles\n");
             }
         }
-
+        //Versão 3.2
     }
     //Versão 3.1
 }
