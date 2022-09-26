@@ -1,0 +1,17 @@
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\bin\Debug\net6.0\JewelCollector.exe
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\bin\Debug\net6.0\JewelCollector.deps.json
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\bin\Debug\net6.0\JewelCollector.runtimeconfig.json
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\bin\Debug\net6.0\JewelCollector.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\bin\Debug\net6.0\JewelCollector.pdb
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.csproj.AssemblyReference.cache
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.AssemblyInfoInputs.cache
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.AssemblyInfo.cs
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.csproj.CoreCompileInputs.cache
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.csproj.CopyComplete
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\refint\JewelCollector.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.pdb
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\JewelCollector.genruntimeconfig.cache
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final\obj\Debug\net6.0\ref\JewelCollector.dll

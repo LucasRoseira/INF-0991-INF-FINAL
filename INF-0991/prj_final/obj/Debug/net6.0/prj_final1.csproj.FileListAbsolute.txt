@@ -1,0 +1,45 @@
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.csproj.AssemblyReference.cache
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.AssemblyInfoInputs.cache
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.AssemblyInfo.cs
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.csproj.CoreCompileInputs.cache
+C:\Users\msft49\Desktop\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.exe
+C:\Users\msft49\Desktop\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.deps.json
+C:\Users\msft49\Desktop\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.runtimeconfig.json
+C:\Users\msft49\Desktop\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.dll
+C:\Users\msft49\Desktop\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.pdb
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.dll
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\refint\prj_final1.dll
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.pdb
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.genruntimeconfig.cache
+C:\Users\msft49\Desktop\INF-0991\prj_final1\obj\Debug\net6.0\ref\prj_final1.dll
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.exe
+c:\Users\msft49\Desktop\codes\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.deps.json
+c:\Users\msft49\Desktop\codes\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.runtimeconfig.json
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.dll
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.pdb
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.csproj.AssemblyReference.cache
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.AssemblyInfoInputs.cache
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.AssemblyInfo.cs
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.csproj.CoreCompileInputs.cache
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.dll
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\refint\prj_final1.dll
+C:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.pdb
+c:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.genruntimeconfig.cache
+c:\Users\msft49\Desktop\codes\INF-0991\prj_final1\obj\Debug\net6.0\ref\prj_final1.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.exe
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.deps.json
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.runtimeconfig.json
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\bin\Debug\net6.0\prj_final1.pdb
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.csproj.AssemblyReference.cache
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.AssemblyInfoInputs.cache
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.AssemblyInfo.cs
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\refint\prj_final1.dll
+C:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.pdb
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\prj_final1.genruntimeconfig.cache
+c:\Users\Lucia\OneDrive\Área de Trabalho\Tudo lado esquerdo\INF-0991\FINAL Entregar\INF-0991\prj_final1\obj\Debug\net6.0\ref\prj_final1.dll

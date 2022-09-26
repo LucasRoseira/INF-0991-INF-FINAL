@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Lucia\\OneDrive\\Área de Trabalho\\Tudo lado esquerdo\\INF-0991\\FINAL Entregar\\INF-0991\\prj_final\\JewelCollector.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Lucia\\OneDrive\\Área de Trabalho\\Tudo lado esquerdo\\INF-0991\\FINAL Entregar\\INF-0991\\prj_final\\JewelCollector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Lucia\\OneDrive\\Área de Trabalho\\Tudo lado esquerdo\\INF-0991\\FINAL Entregar\\INF-0991\\prj_final\\JewelCollector.csproj",
+        "projectName": "JewelCollector",
+        "projectPath": "c:\\Users\\Lucia\\OneDrive\\Área de Trabalho\\Tudo lado esquerdo\\INF-0991\\FINAL Entregar\\INF-0991\\prj_final\\JewelCollector.csproj",
+        "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Lucia\\OneDrive\\Área de Trabalho\\Tudo lado esquerdo\\INF-0991\\FINAL Entregar\\INF-0991\\prj_final\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
